@@ -723,11 +723,12 @@ mv yolov8n.pt backend/
 
 <div dir="rtl">
 
-**نام:** [نام شما]  
-**ایمیل:** [ایمیل شما]  
-**GitHub:** [@YourUsername](https://github.com/YourUsername)  
-**لینکدین:** [پروفایل شما](https://linkedin.com/in/yourprofile)
+**نام:** [farimah]  
+**ایمیل:** [farimah001199@gmail.com]  
+**GitHub:** [@farimah20](https://github.com/farimah20)  
+**لینکدین:** [www.linkedin.com/in/fatemeh-dadkhah-ml
 
+]
 </div>
 
 ---
@@ -748,7 +749,7 @@ mv yolov8n.pt backend/
 
 ### گزارش باگ:
 
-از طریق [Issues](https://github.com/YourUsername/cctv-security-system/issues) گزارش دهید.
+از طریق [Issues](https://github.com/farimah20/cctv-security-system/issues) گزارش دهید.
 
 </div>
 
@@ -783,9 +784,9 @@ mv yolov8n.pt backend/
 
 اگر سوالی دارید یا به کمک نیاز دارید:
 
-- 📧 ایمیل: [ایمیل شما]
-- 💬 Telegram: [@YourUsername]
-- 🐛 Issues: [GitHub Issues](https://github.com/YourUsername/cctv-security-system/issues)
+- 📧 ایمیل: [farimah001199@gmail.com]
+
+- 🐛 Issues: [GitHub Issues](https://github.com/farimah20/cctv-security-system/issues)
 
 </div>
 
